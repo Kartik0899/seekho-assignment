@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Which of the following methods is used to access HTML elements using Javascript?",
+        "options": [
+            "getElementbyId()",
+            "getElementsByClassName()",
+            "Both A and B",
+            "None of the above"
+        ],
+        "correctOptionIndex": "2"
+    },
+    {
+        "title": "Which of the following methods can be used to display data in some form using Javascript?",
+        "options": [
+            "document.write()",
+            "console.log()",
+            "window.alert()",
+            "All of the above"
+        ],
+        "correctOptionIndex": "3"
+    },
+    {
+        "title": "How can a datatype be declared to be a constant type?",
+        "options": [
+            "const",
+            "var",
+            "let",
+            "constant"
+        ],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": "What keyword is used to check whether a given property is valid or not?",
+        "options": [
+            "in",
+            "is in",
+            "exists",
+            "lies"
+        ],
+        "correctOptionIndex": "0"
+    },
+    {
+        "title": "What is the use of the <noscript> tag in Javascript?",
+        "options": [
+            "The contents are displayed by non-JS-based browsers.",
+            "Clears all the cookies and cache.",
+            "Both A and B.",
+            "None of the above."
+        ],
+        "correctOptionIndex": "0"
+    }
+]
